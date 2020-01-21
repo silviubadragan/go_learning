@@ -1,6 +1,6 @@
 FROM silviubadragan/go:latest
 
 USER root
-RUN usermod -aG sudo username
+RUN usermod -aG sudo gitpod
 
 USER gitpod
