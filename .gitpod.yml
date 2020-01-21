@@ -1,2 +1,8 @@
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - ms-vscode.Go@0.12.0:MiHQpdACfrqT7FyKPsfs/Q==
+    - eamodio.gitlens@10.2.0:GNDO73Cmp0fYDiLNxVkbsQ==
+    - oderwat.indent-rainbow@7.4.0:nth8lnJRnQu9NcWvNc9KPA==
